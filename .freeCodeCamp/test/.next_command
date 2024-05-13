@@ -457,3 +457,6 @@ __vsc_prompt_cmd_original
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
+git pull
+git config pull.rebase false
+git pull
